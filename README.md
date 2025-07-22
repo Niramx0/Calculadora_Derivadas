@@ -1,6 +1,6 @@
 # Calculadora_Derivadas
 Repositorio para una calculadora de derivadas dada una expresión en forma factorial, cuyo factor es a lo más un polinomio
 Incluye un instructivo y una documentación explicativa acerca del método utilizado para calcular dichas derivadas
-\nAutores:
-\nLuis Rodrigo Rivera  
-\nOmar Alejandro Salazar
+Autores:
+Luis Rodrigo Rivera  
+Omar Alejandro Salazar
